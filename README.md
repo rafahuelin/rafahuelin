@@ -3,7 +3,7 @@
 ## I'm a Python :snake: and Javascript :mage_man: developer specialized in the frameworks Django and React!!
 
 - :smiley: I’m looking to collaborate with other software developers to share the things I'm learning and have a good time
-- :nerd_face: 2022 Goals: Learn Java and Design Patterns
+- :nerd_face: 2023 Goals: Learn about AI and make side projects on the topic
 - :muscle: Keeping fit and seeking for mindfulness through boxing :boxing_glove: and tennis :tennis:
 
 ### Connect with me:
