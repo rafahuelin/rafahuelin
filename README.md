@@ -18,7 +18,6 @@
 [<img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png" />][linkedin]
 [<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][linkedin]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="Docker" width="26px" src="https://gist.github.com/mrcodedev/8f9c3cc5698f98adecfaebd797b5714e/raw/5574cd201ebf8b1b128fc20043cc9ade37cf4baa/image-docker.png" />][linkedin]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
