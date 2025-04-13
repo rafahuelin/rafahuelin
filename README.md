@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafa :vulcan_salute: 
 
-## I'm a Python :snake: and Javascript :mage_man: developer specialized in the frameworks Django and React!!
+## I'm a Python :snake: and Javascript :mage_man: developer specialized in the frameworks Django, FastAPI and React!!
 
 - :smiley: I’m looking to collaborate with other software developers to share the things I'm learning and have a good time
 - :nerd_face: 2024 Goals: Learn about AI and make side projects on the topic
